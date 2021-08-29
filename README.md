@@ -1,4 +1,4 @@
-<img src="" alt="cw2" />
+<img src="https://github.com/xNoJustice/electron-react-cw2-clipboard-app/blob/97da4d5a79d15601909ede38c0dc1ad42a088f9f/cw2.gif" alt="cw2" />
 
 ## Install
 
