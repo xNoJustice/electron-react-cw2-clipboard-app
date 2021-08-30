@@ -2,21 +2,21 @@ import React, { useState, useEffect } from 'react';
 import { MemoryRouter as Router, Switch, Route } from 'react-router-dom';
 
 const data = [
-  { id: 11, text: 'Lykos', code: '/find 191', category: 'Super Elite' },
+  { id: 1, text: 'Lykos', code: '/find 191', category: 'Super Elite' },
   { id: 2, text: 'Scrofa', code: '/find 192', category: 'Super Elite' },
   { id: 3, text: 'Bera', code: '/find 193', category: 'Super Elite' },
-  { id: 11, text: 'Tigris', code: '/find 194', category: 'Super Elite' },
-  { id: 11, text: 'Mahon', code: '/find 491', category: 'Super Elite' },
-  { id: 11, text: 'Bo', code: '/find 492', category: 'Super Elite' },
-  { id: 11, text: 'Goo-Pae', code: '/find 493', category: 'Super Elite' },
-  { id: 11, text: 'Chuong', code: '/find 494', category: 'Super Elite' },
+  { id: 4, text: 'Tigris', code: '/find 194', category: 'Super Elite' },
+  { id: 5, text: 'Mahon', code: '/find 491', category: 'Super Elite' },
+  { id: 6, text: 'Bo', code: '/find 492', category: 'Super Elite' },
+  { id: 7, text: 'Goo-Pae', code: '/find 493', category: 'Super Elite' },
+  { id: 8, text: 'Chuong', code: '/find 494', category: 'Super Elite' },
   {
-    id: 11,
+    id: 9,
     text: 'Brutaler Hauptmann',
     code: '/find 591',
     category: 'Super Elite',
   },
-  { id: 11, text: 'Oberork', code: '/find 691', category: 'Super Elite' },
+  { id: 10, text: 'Oberork', code: '/find 691', category: 'Super Elite' },
   {
     id: 11,
     text: 'Dunkler Oberork',
