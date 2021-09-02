@@ -67,6 +67,9 @@
         "portable"
       ]
     },
+    "portable": {
+      "artifactName": "ElectronCw2Clipboard.exe"
+    },
     "linux": {
       "target": [
         "AppImage"
